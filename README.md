@@ -1,2 +1,2 @@
-# pet-clonic
+# pet-clinic
 SFT Pet Clinic
